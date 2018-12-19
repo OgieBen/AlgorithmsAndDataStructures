@@ -30,6 +30,8 @@ let Queue = {
 }
 
 
+module.exports = Queue;
+
 // quick test
 let q = Queue;
 
