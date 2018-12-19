@@ -14,6 +14,8 @@ let Stack = {
     },
 }
 
+module.exports = Stack;
+
 let q = Stack;
 
 q.push(9)
